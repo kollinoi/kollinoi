@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kollinoi
-- 👀 I’m interested in css and JS
-- 🌱 I’m currently learning Css and JS
+- 👀 I’m interested in C and C#
+- 🌱 I’m currently learning C# and C
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me Nowhere
 - 😄 Pronouns: He/Him
